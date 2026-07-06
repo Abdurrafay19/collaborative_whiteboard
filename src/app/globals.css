@@ -4,10 +4,10 @@
 
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-slate-200 outline-orange-500/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-slate-50 text-slate-900;
   }
   html {
     @apply font-sans;
